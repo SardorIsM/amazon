@@ -1,0 +1,44 @@
+.firstFooter {
+    height: 500px;
+    background-color: #232F3E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.itemsColons {
+    margin-right: 60px;
+}
+.bigTitle {
+    margin-bottom: 15px;
+}
+.infoLink {
+    display: block;
+    color: antiquewhite;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.secondInfo {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 12px;
+}
+.secondFooter {
+    height: 500px;
+    background-color: #131A22;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.secondFooterDiv {
+    margin-top: 50px;
+}
+.secondFooterColons {
+    margin: 20px;
+}
+.amazon {
+    background-color: #131A22;
+    text-align: center;
+    color: #fff;
+}

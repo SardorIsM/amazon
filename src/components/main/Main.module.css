@@ -1,0 +1,9 @@
+.main{
+  max-width: 1440px;
+  margin: -230px auto 0 auto;
+  z-index: 2;
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+

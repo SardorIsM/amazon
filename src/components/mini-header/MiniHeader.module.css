@@ -1,0 +1,17 @@
+.miniHeader{
+  width: 100%;
+  min-height: 50px;
+  background-color: #232E3E;
+  display: flex;
+}
+.miniHeaderLink {
+  color: #fff;
+  text-decoration: none;
+  margin: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  padding: 5px;
+}
+.miniHeaderLink:hover {
+  border: 1px solid gold;
+}
